@@ -1,0 +1,12 @@
+/files/
+/files_ojs/
+/files_journal/
+/files_journals/
+/ojs/
+/ojs_data/
+/ojs_files/
+/files_ojs/
+/adminfiles/
+/journals/
+/journals/files/
+
